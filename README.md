@@ -2,11 +2,7 @@
 <h3 align="center">
    Hello! I'm sblro4eeek
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-<p align="center">
-    <img src="https://img.shields.io/badge/Coffee-Powered%20by%20☕-black?style=for-the-badge">
-</p>
 </h3>
-<br>
 <p align="center">
     <a href="https://github.com/sblro4eeek">
         <img src="https://readme-typing-svg.herokuapp.com/?lines=Python%20Developer;React%20Developer;Software%20Engineer;Tech%20Enthusiast&center=true&width=380&height=45"></a>
