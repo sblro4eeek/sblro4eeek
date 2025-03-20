@@ -42,7 +42,8 @@
     <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
     <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white">
     <img alt="SQLAlchemy" src="https://img.shields.io/badge/SQLAlchemy-CA4245?style=for-the-badge&logo=sqlalchemy&logoColor=white">
-    <img alt="PostgreSQL"  src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
+    <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
+    <img alt="aiogram" src="https://img.shields.io/badge/aiogram-00ADEF?style=for-the-badge&logo=telegram&logoColor=white">
 </p>
 
 ### 💻 Software and Tools
